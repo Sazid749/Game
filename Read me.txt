@@ -1,0 +1,17 @@
+Before starting read this:
+ 
+*This game is made by using Raylib so you cannot run it by opening only c file .You have to open the code workspace source file to run the         code.
+
+*The "Image" folder contains all the necessary images and audios used in this game 
+
+*The leaderboard.txt file saves all the scores. So if you want to reset the score ,just delete the leaderboard.txt file or there is a reset button in the leaderboard window. Then scoreboard will reset and if you play the game, a new leaderboard.txt file will be created.
+
+*The .vscode folder contains the necessary launch.json, task.json and others to run the code. As I am using MinGW-64 so my launch.json, task.json are created in favour of me. But if you use another compiler you should create your own necessary files to run the code.
+
+*The "raylib" folder contains all the library functions and other things of Raylib. So you cannot delete this folder 
+
+*After doing all this things , open "raylib_template" code workspace source file ,then select the Game.c file and press F5 (Game will start). 
+
+
+
+                                                          (Use VS code)    
